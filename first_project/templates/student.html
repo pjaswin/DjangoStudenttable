@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+{% load static %}
+<link rel="stylesheet" type='text/css' href="{% static 'hei.css' %}">
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Student Entry</title>
+  </head>
+  <body>
+    <h2>Student Entry</h2>
+    <form action="/student/" method="post" enctype="multipart/form-data">
+      {% csrf_token %}
+        {{student_form}}
+        <br><br>
+      <input type="submit" value="Submit">
+      <button onclick="document.location='/'">Back</button>
+    </form>
+  </body>
+</html>

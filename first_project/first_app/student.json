@@ -1,0 +1,16 @@
+{
+    "student" :  [
+        { "degree" : [{ "title" : "M.Tech", "branch" : "Biology" }], "roll_number" : "AM.EN.P2AML21005" ,"name":"Raul","year":1,"dob":"2000-03-14"},
+        { "degree" :[{ "title" : "M.Tech", "branch" : "Physics" }], "roll_number" : "AM.EN.P2SS21001" ,"name":"David","year":1,"dob":"2000-03-14"},
+        { "degree" : [{ "title" : "M.Tech", "branch" : "Biology" }], "roll_number" : "AM.EN.P2AML21006","name":"Sony","year":1, "dob":"2000-03-14"},
+        { "degree" : [{ "title" : "M.Tech", "branch" : "Biology" }], "roll_number" : "AM.EN.P2AML21007","name":"Reju","year":1, "dob":"2000-03-14"},
+        { "degree" : [{ "title" : "M.Tech", "branch" : "Maths" }], "roll_number" : "AM.EN.P2Maths21006","name":"Mai","year":1, "dob":"2000-03-14"},
+        { "degree" : [{ "title" : "M.Tech", "branch" : "Physics" }], "roll_number" : "AM.EN.P2SS21001" ,"name":"Lilli","year":1,"dob":"2000-03-14"},
+        { "degree" : [{ "title" : "M.Tech", "branch" : "Maths" }], "roll_number" : "AM.EN.P2Maths21006","name":"Ram","year":1, "dob":"2000-03-14"},
+        { "degree" : [{ "title" : "M.Tech", "branch" : "Physics" }], "roll_number" : "AM.EN.P2SS21001","name":"John" ,"year":1,"dob":"2000-03-14"},
+        { "degree" : [{ "title" : "M.Tech", "branch" : "Biology" }], "roll_number" : "AM.EN.P2AML21008" ,"name":"Joesph","year":1,"dob":"2000-03-14"},
+        { "degree" : [{ "title" : "M.Tech", "branch" : "Maths" }], "roll_number" : "AM.EN.P2CSN21006","name":"Den","year":1, "dob":"2000-03-14"}
+    ]
+  }
+
+

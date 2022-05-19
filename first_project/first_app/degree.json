@@ -1,0 +1,12 @@
+{
+    "degree" :  [
+      { "title" : "M.Tech", "branch" : "CS AI & ML" },
+      { "title" : "M.Tech", "branch" : "AI" },
+      { "title" : "M.Tech", "branch" : "CSN" },
+      { "title" : "M.Tech", "branch" : "WNA" },
+      { "title" : "M.Tech", "branch" : "VLSI" },
+      {"title":"M.Tech","branch":"Biology"},
+      {"title":"M.Tech","branch":"Physics"},
+      {"title":"M.Tech","branch":"Maths"}
+    ]
+  }
